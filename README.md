@@ -1,4 +1,4 @@
 MyFirstRepo
 ===========
 
-Getting started.
+Getting started With Android.
