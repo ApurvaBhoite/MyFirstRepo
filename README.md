@@ -7,4 +7,4 @@ Getting started With Android.
 Aim:
 =====
 
- To create simple Android Applications.
+ To create Simple Android Applications.
