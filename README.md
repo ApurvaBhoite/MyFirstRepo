@@ -4,7 +4,7 @@ MyFirstRepo
 Getting started With Android.
 
 
-Aim
+Aim:
 =====
 
  To create simple Android Applications.
