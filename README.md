@@ -1,17 +1,14 @@
 KinoSense
 =========
-
 Motion Statement - Enabling Smart Phones to Sense by themselves.
 
 Description
 ------
 KinoSense is primarily a framework which enables Smart Phones to use high level trigger to fire high level actions based on rules which could be hosted on the cloud.
-
 Read the terminologies mentioned below to understand the key building blocks.
 
 Terminologies
 ===========
-
 We need to understand the following terminologies
 
 * Triggers
